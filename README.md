@@ -1,7 +1,7 @@
 # About this Repository
 This Repository contains basic programs on the Deep Learning and Computer Vision.
 
-# Deep_Learning
+# Deep Learning
 Deep Learning is a subfield of machine learning that involves the training of artificial neural networks to perform tasks without explicit programming. It is inspired by the structure and function of the human brain, consisting of interconnected layers of nodes (neurons) that process information. The above attached programs are implemented using Deep Learning concepts.
 
 # Computer Vision
