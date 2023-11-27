@@ -51,13 +51,13 @@ Computer Vision is a field of artificial intelligence that enables machines to i
 
 ## Key Concepts in CV:
 
-| Image Processing | Computer Vision involves various image processing techniques to enhance, analyze, and manipulate visual data. Operations include filtering, segmentation, and feature extraction. |
+* __Image Processing:__ Computer Vision involves various image processing techniques to enhance, analyze, and manipulate visual data. Operations include filtering, segmentation, and feature extraction. 
 
-| Feature Extraction | Features are distinctive patterns or structures in an image. Computer Vision algorithms extract features to understand the content of an image and recognize objects. |
+* __Feature Extraction:__ Features are distinctive patterns or structures in an image. Computer Vision algorithms extract features to understand the content of an image and recognize objects. 
 
-| Object Detection | Identifying and locating objects within an image or video stream. Popular techniques include region-based methods, like R-CNN, and single-shot methods, like YOLO. |
+* __Object Detection:__ Identifying and locating objects within an image or video stream. Popular techniques include region-based methods, like R-CNN, and single-shot methods, like YOLO. 
 
-| Image Classification | Categorizing images into predefined classes or labels. Deep learning models, particularly convolutional neural networks (CNNs), have excelled in image classification tasks. |
+* __Image Classification:__ Categorizing images into predefined classes or labels. Deep learning models, particularly convolutional neural networks (CNNs), have excelled in image classification tasks. 
 
 ## Contributing:
 If you find any issues or have improvements to suggest, please feel free to open an issue or create a pull request. Contributions are welcome!
